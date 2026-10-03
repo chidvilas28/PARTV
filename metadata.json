@@ -1,0 +1,5 @@
+{
+  "name": "PARTV",
+  "description": "Pathfinding Algorithm RealTime Visualizer (PARTV) - A tool using real-world OpenStreetMap data to demonstrate Dijkstra, A*, BFS, and DFS algorithms.",
+  "requestFramePermissions": []
+}
